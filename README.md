@@ -1,3 +1,5 @@
+Year 1 - Sem 1 
+
 ### **Project Name: "ShapeSketch Artist"**  
 *(A creative name suggesting the program's ability to draw various geometric shapes.)*  
 
