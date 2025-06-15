@@ -1,7 +1,4 @@
-// Omar Mohammad Yousef Farag (20236066)
-// Mousa Mohamed Mousa Mohamed Hussein (20235042)
-// Yousef Hamed Mohamad 20236058
-// TA AMANY
+// https://www.linkedin.com/in/mousa123/
 #include<iostream>
 using namespace std;
 
